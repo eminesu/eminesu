@@ -17,7 +17,7 @@
 I build machine learning systems for medical imaging and full-stack software for the web.
 
 - 🔬 **Now:** MSc student researching **domain generalization for medical image segmentation** (liver segmentation & fibrosis staging from multi-phase MRI) at Heidelberg University, in collaboration with DKFZ.
-- 🎓 **Scholar** at the **Konrad Zuse School of Excellence ELIZA** (DAAD-funded).
+- 🎓 **Scholarship holder** at the **Konrad Zuse School of Excellence ELIZA** (DAAD-funded).
 - 💻 **Before that:** 4 years as a **Full-Stack Engineer at Garanti BBVA Technology**, building Python/Django + Angular tools that automated security-team workflows.
 - 🌍 Based in Germany · working in English &amp; Turkish, learning German.
 
